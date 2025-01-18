@@ -274,6 +274,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "pufferfish": "2025-01-17 09:55:07 +0000",
+      "cooked_beef": "2025-01-18 09:47:10 +0000",
       "baked_potato": "2025-01-16 09:43:51 +0000",
       "poisonous_potato": "2025-01-17 09:54:27 +0000"
     },
@@ -1041,6 +1042,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-17 06:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2025-01-18 09:47:07 +0000"
     },
     "done": true
   },
