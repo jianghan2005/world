@@ -801,6 +801,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-01-21 09:09:17 +0000",
       "minecraft:skeleton": "2025-01-08 14:33:27 +0000",
       "minecraft:magma_cube": "2025-01-14 13:42:09 +0000",
       "minecraft:spider": "2025-01-10 03:06:39 +0000",
@@ -2894,6 +2895,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-16 06:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 09:17:27 +0000"
     },
     "done": true
   },
