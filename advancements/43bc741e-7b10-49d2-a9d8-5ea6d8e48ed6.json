@@ -801,15 +801,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-01-21 09:09:17 +0000",
+      "minecraft:pillager": "2025-01-25 04:27:04 +0000",
       "minecraft:skeleton": "2025-01-08 14:33:27 +0000",
-      "minecraft:magma_cube": "2025-01-14 13:42:09 +0000",
       "minecraft:witch": "2025-01-24 06:31:07 +0000",
+      "minecraft:cave_spider": "2025-01-21 09:09:17 +0000",
+      "minecraft:vindicator": "2025-01-25 04:51:45 +0000",
+      "minecraft:magma_cube": "2025-01-14 13:42:09 +0000",
       "minecraft:spider": "2025-01-10 03:06:39 +0000",
+      "minecraft:vex": "2025-01-25 04:54:25 +0000",
       "minecraft:zombie": "2025-01-08 08:15:40 +0000",
       "minecraft:creeper": "2025-01-12 03:20:04 +0000",
       "minecraft:drowned": "2025-01-11 05:59:03 +0000",
-      "minecraft:zombie_villager": "2025-01-08 14:34:53 +0000"
+      "minecraft:zombie_villager": "2025-01-08 14:34:53 +0000",
+      "minecraft:evoker": "2025-01-25 04:53:55 +0000"
     },
     "done": false
   },
@@ -3046,6 +3050,48 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-01-24 06:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-25 04:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-25 04:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-25 04:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-01-25 04:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-25 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-25 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-25 07:30:23 +0000"
     },
     "done": true
   },
